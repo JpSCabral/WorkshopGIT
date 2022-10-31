@@ -6,3 +6,6 @@ ATIVIDADE 1
 
 ATIVIDADE 2
   Criar uma main em C e inicializar o GIT
+
+ATIVIDADE 3
+ 
